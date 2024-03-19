@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+
 public class CadastroFesta {
     // Lista para armazenar as festas cadastradas
     private static List<Festa> festasCadastradas = new ArrayList<>();
